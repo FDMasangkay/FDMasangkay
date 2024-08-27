@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Frederick Masangkay, you can call me Fred!
+- 👋 Hi, I’m Frederick Masangkay!
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Structure and Algorithm, and Data Visualization and Analysis.
 
